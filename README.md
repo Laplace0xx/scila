@@ -3,12 +3,12 @@ Scilla is an agentic citation verification for research papers. JUst upload your
 
 ## Installation
 
-    https://github.com/Laplace0xx/scila.git
+    git clone https://github.com/Laplace0xx/scila.git
     cd scila
 
 You should install uv if you haven't already
 
-    uv init
+    uv sync
 
-
+Now to run the project
 
