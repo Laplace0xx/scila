@@ -5,6 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "deepagents>=0.5.3",
+    "langchain>=1.2.15",
+    "langchain-groq>=1.1.2",
     "pypdf>=6.10.2",
+    "python-dotenv>=1.2.2",
     "streamlit>=1.56.0",
 ]
